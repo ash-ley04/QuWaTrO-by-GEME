@@ -167,6 +167,7 @@ You'll see QuakeGuard's colorful welcome screen
 _**SAMPLE OUTPUT**_
 
 STARTING...
+
 <img width="883" height="455" alt="image" src="https://github.com/user-attachments/assets/25395221-7c66-4f9e-8c3c-cd4511384132" />
 
 
